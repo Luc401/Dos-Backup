@@ -1,7 +1,6 @@
 \steam\
 \ExternalHDD\
 \bittorrentSync\
-\Family Videos\
 \Media pro\
 \Physics 11\
 \Porfolio\
